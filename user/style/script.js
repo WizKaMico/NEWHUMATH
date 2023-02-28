@@ -1,0 +1,1 @@
+// It's a responsive dashboard page with fixed sidebar as my first task for frontend course. you can see this project also on my github: https://github.com/ShoshaTheTarnegolet/Dashboard-Project
